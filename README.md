@@ -4,7 +4,7 @@
 </p>
 
 </p>
-![#c5f015]<h1 align="center">`VietComBank QR Generator`</h1>
+<h1 align="center">VietComBank QR Generator</h1>
 
 ## Description
 
