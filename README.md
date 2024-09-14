@@ -1,10 +1,10 @@
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="120" alt="Nest Logo" /></a>
-  <img src="https://vinfruits.com/wp-content/uploads/2024/06/logo-vietcombank-khong-slogan-300x111.png" alt="VietComBank Logo" width="250px" style="margin-left: 20px">
+  <img src="https://vinfruits.com/wp-content/uploads/2024/06/logo-vietcombank-khong-slogan-300x111.png" alt="VietComBank Logo" width="250px">
 </p>
 
 </p>
-<h1 align="center" style="color: green">VietComBank QR Generator</h1>
+![#c5f015]<h1 align="center">VietComBank QR Generator</h1>
 
 ## Description
 
