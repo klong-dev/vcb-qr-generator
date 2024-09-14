@@ -1,6 +1,6 @@
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="120" alt="Nest Logo" /></a>
-  <img src="https://sagonap.com/wp-content/uploads/2019/07/1.vietcombank.jpg" alt="VietComBank Logo" width="120px">
+  <img src="https://vinfruits.com/wp-content/uploads/2024/06/logo-vietcombank-khong-slogan-300x111.png" alt="VietComBank Logo" width="250px">
 </p>
 
 </p>
